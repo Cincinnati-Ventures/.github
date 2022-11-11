@@ -6,7 +6,7 @@
 <h1 align='center'>Cincinnati Ventures</h1>
 <h4 align='center'>A “build and hold” venture studio, powered by an evergreen venture fund.</h4>
 <div align='center'>
-<a href='https://cincinnati.ventures/' target='_blank'>Cincinnati.ventures</a>
+<a href='https://cincinnati.ventures/' target='_blank'>cincinnati.ventures</a>
 </div>
 
 > More coming soon...
