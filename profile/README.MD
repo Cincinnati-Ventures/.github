@@ -12,4 +12,3 @@ ideas from zero to scale.</h4>
 <a href='https://cincinnati.ventures/' target='_blank'>cincinnati.ventures</a>
 </div>
 
-> More coming soon...
